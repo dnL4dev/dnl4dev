@@ -1,15 +1,15 @@
 
 <div>
   <a href="https://github.com/dnl4dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnl4dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnl4dev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=dnl4dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnl4dev&layout=compact&langs_count=7&theme=dark"/>
 </div>
     
 # Hello world! 👋
     
 Bem-vindo ao meu canto no GitHub! 🚀
 
-Meu nome é Danilo Queiroga, e sou um entusiasta em tecnologia, desenvolvimento de software e pela comunidade open source. Este é o lugar onde eu compartilho meus projetos, ideias malucas e um pouco do meu aprendizado contínuo.
+Meu nome é Danilo Queiroga e sou um entusiasta em tecnologia, desenvolvimento de software e pela comunidade open source. Este é o lugar onde eu compartilho meus projetos, ideias malucas e um pouco do meu aprendizado contínuo.
 
 ## 🌟 Sobre Mim
 
